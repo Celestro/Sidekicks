@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="47"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="AnimationSubSet" type="guid" value="eea85142-2310-4abd-855c-fee606552c7e"/>
+                    <attribute id="BaseHp" type="int32" value="8"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Rogue"/>
+                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
+                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
+                    <attribute id="Description" type="FixedString" value="The Expert is a master of certain tasks or knowledge, favoring cunning over brawn."/>
+                    <attribute id="DisplayName" type="FixedString" value="Expert"/>
+                    <attribute id="HpPerLevel" type="int32" value="5"/>
+                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="Expert"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="c89fe688-34fc-4e63-bdec-c17ed075b1e2"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Rogue"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="0"/>
+                    <attribute id="UUID" type="guid" value="1e3b7547-2f5d-4648-9483-3710f6918d03"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="0deaaad1-c1d2-437e-9ae8-5a0626f7c841"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="AnimationSubSet" type="guid" value="2a037840-a9e6-404d-8451-a737a97447f2"/>
+                    <attribute id="BaseHp" type="int32" value="6"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Wizard"/>
+                    <attribute id="Description" type="FixedString" value="A Spellcaster walks the paths of magic and learns spells from the Wizard class, the Cleric and Druid classes or the Bard and Warlock classes."/>
+                    <attribute id="DisplayName" type="FixedString" value="Spellcaster"/>
+                    <attribute id="HpPerLevel" type="int32" value="4"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="Spellcaster"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="4"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="2cca044b-2924-434f-8efa-d357a6e50b5d"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Wizard"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="UUID" type="guid" value="fa180992-200b-4e3d-b1b8-160e5f71ac7b"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="b7516893-c7ff-4906-a514-da634f5afe93"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="AnimationSubSet" type="guid" value="1064c3aa-4d4c-491d-b090-2bca3ada0375"/>
+                    <attribute id="BaseHp" type="int32" value="10"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Fighter"/>
+                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
+                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
+                    <attribute id="Description" type="FixedString" value="A Warrior sidekick grows in martial prowess as it fights by your side."/>
+                    <attribute id="DisplayName" type="FixedString" value="Warrior"/>
+                    <attribute id="HpPerLevel" type="int32" value="6"/>
+                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="Warrior"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="f10dc188-0181-4731-814c-b01817a26164"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="0"/>
+                    <attribute id="UUID" type="guid" value="f0993656-5182-42ae-a588-4e2bd33c986a"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c5df639b-8fab-4bf8-9890-45b7cb174869"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
