@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="1"/>
+    <region id="Origins">
+        <node id="root">
+            <children>
+                <node id="Origin">
+                    <attribute id="AppearanceLocked" type="bool" value="true"/>
+                    <attribute id="AvailableInCharacterCreation" type="bool" value="True"/>
+                    <attribute id="BackgroundUUID" type="guid" value="1252a86e-9baa-4ccb-b8ce-2378ae006f0b"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="ClassEquipmentOverride" type="FixedString" value="EQ_Karlach"/>
+                    <attribute id="ClassUUID" type="guid" value="d8cadb42-0ff9-4049-afaf-e5d78d06a399"/>
+                    <attribute id="CloseUpA" type="LSString" value=""/>
+                    <attribute id="CloseUpB" type="LSString" value=""/>
+                    <attribute id="Description" type="FixedString" value="Karlach was a prisoner forced to fight for archdevil Zariel in the Blood war - an eternal battle between bad and worse. Managing to escape via a passing nautiloid, she now swears to break the bonds that still tie her to the fallen angel and take revenge on those who doomed her - if Zariel's hunters don't drag her back first."/>
+                    <attribute id="DisplayName" type="FixedString" value="Karlach"/>
+                    <attribute id="GlobalTemplate" type="guid" value="2c76687d-93a2-477b-8b18-8a14b549304c"/>
+                    <attribute id="GodUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="LockClass" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Karlach"/>
+                    <attribute id="Overview" type="LSString" value=""/>
+                    <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
+                    <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/>
+                    <attribute id="SubRaceUUID" type="guid" value="3f30547c-248c-4781-b0e3-6ef2ab99426b"/>
+                    <attribute id="UUID" type="guid" value="c4ab6647-6424-4e8c-a567-e3f1f9309fa8"/>
+                    <attribute id="Unique" type="bool" value="true"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="7ac8e0a0-f710-40d4-9c8c-5c00b465c0c6"/>
+                    <children>
+                        <node id="AppearanceTags">
+                            <attribute id="Object" type="guid" value="9aab4bcd-e1f7-4008-7b8f-20f189379bae"/>
+                        </node>
+                        <node id="ReallyTags">
+                            <attribute id="Object" type="guid" value="1a2f70d6-8ead-4eb5-24a8-ee7971194a76"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="606"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="BonusProficiencies_Constitution,BonusProficiencies_Dexterity,BonusProficiencies_Strength"/>
+                    <attribute id="UUID" type="guid" value="08b67255-d824-4efe-80cf-875ff76868de"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="MartialRole_Attacker,MartialRole_Defender"/>
+                    <attribute id="UUID" type="guid" value="f1304fbb-7feb-4e67-9328-a06c2fe69618"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

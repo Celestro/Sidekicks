@@ -1,0 +1,52 @@
+INIT
+
+
+EVENTS
+
+EVENT SummonKarlach
+VARS
+	CHARACTER:_Character
+	FLOAT3:_pos
+	CHARACTER:_Summon
+ON
+	OnCharacterVitalityChanged(_Character,_)
+ACTIONS
+    IF "!c1&c2&!c3&c4"
+		IsTagged(_Character,"KARLACH")
+		IsTagged(_Character,"AVATAR")
+		CharacterHasStatus(_Character,"KARLACH_BLOCK")
+		GetPosition(_Character,_pos)
+	THEN
+		CharacterApplyStatus(_Character,KARLACH_AURA,-1)
+		CharacterApplyStatus(_Character,KARLACH_BLOCK,-1)
+	ENDIF
+
+EVENT DestroyHalsin
+VARS
+	CHARACTER:_Character
+	FLOAT3:_pos
+	CHARACTER:_Summon
+ON
+	OnCharacterStatusApplied(_Character,DESTROY_HALSIN)
+ACTIONS
+	CharacterDestroy(_Character)
+
+EVENT BecomeCompanion
+VARS
+	CHARACTER:_Character
+	CHARACTER:_Source
+ON
+	OnCharacterStatusApplied(_Character,KARLACH)
+ACTIONS
+    IF "c1"
+		CharacterGetStatusSourceCharacter(_Character,KARLACH,_Source)
+	THEN
+		SetTag(_Character,"AVATAR")
+		SetFlag(_Character,"Debug_BecomeCompanion")
+		SetFlag(_Source,"ORI_Karlach_State_IsInParty")
+		SetFlag(_Character,"KARLACHPARTY")
+		SetFlag(_Character,"KARLACHCAMP")
+		SetFlag(_Character,"KARLACH")
+		SetFlag(_Character,"KARLACHCOMPANION")
+	ENDIF
+

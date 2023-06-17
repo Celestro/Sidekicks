@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="606"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Strength;Constitution;Dexterity"/>
+                    <attribute id="Level" type="int32" value="4"/>
+                    <attribute id="TableUUID" type="guid" value="f10dc188-0181-4731-814c-b01817a26164"/>
+                    <attribute id="UUID" type="guid" value="cf57b7f2-060b-404e-86ac-87831fe245b6"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Strength;Constitution;Dexterity"/>
+                    <attribute id="Level" type="int32" value="8"/>
+                    <attribute id="TableUUID" type="guid" value="f10dc188-0181-4731-814c-b01817a26164"/>
+                    <attribute id="UUID" type="guid" value="2855b088-9692-4dac-9da0-03d8a85f0747"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Strength;Constitution;Dexterity"/>
+                    <attribute id="Level" type="int32" value="12"/>
+                    <attribute id="TableUUID" type="guid" value="f10dc188-0181-4731-814c-b01817a26164"/>
+                    <attribute id="UUID" type="guid" value="4b78dbcb-8dda-4f2b-8895-96555902e550"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Strength;Constitution;Dexterity"/>
+                    <attribute id="Level" type="int32" value="14"/>
+                    <attribute id="TableUUID" type="guid" value="f10dc188-0181-4731-814c-b01817a26164"/>
+                    <attribute id="UUID" type="guid" value="fe66b802-f7f7-4c17-8fb1-7b4d07efa9b1"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Strength;Constitution;Dexterity"/>
+                    <attribute id="Level" type="int32" value="16"/>
+                    <attribute id="TableUUID" type="guid" value="f10dc188-0181-4731-814c-b01817a26164"/>
+                    <attribute id="UUID" type="guid" value="4a4cd2bc-7ea7-47cb-aee5-c3286ac96358"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Strength;Constitution;Dexterity"/>
+                    <attribute id="Level" type="int32" value="19"/>
+                    <attribute id="TableUUID" type="guid" value="f10dc188-0181-4731-814c-b01817a26164"/>
+                    <attribute id="UUID" type="guid" value="ab6cbc6f-73c2-44f0-9c04-678841674778"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

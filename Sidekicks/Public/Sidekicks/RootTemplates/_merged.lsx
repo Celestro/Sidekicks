@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="39d59978-8a65-a8ec-6e8b-0d391f4035e3" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h8b50d0fegb93dg4a1ega2c5g906c3c96e030" version="1" />
+					<attribute id="Equipment" type="FixedString" value="EQ_Karlach" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-9bb3-f38b0fa1548b" />
+					<attribute id="Faction" type="guid" value="8e465ee5-ad2b-008b-6b96-64d1371ec5e3" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
+					<attribute id="Icon" type="FixedString" value="39d59978-8a65-a8ec-6e8b-0d391f4035e3-EQ_Karlach_(Icon_Human_Female_Strong)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="3ab0a797-0904-47cb-955d-cdc3ec32409c" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aadac54f-38c0-4486-b45f-01c30e2e9323" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="POC_Player_Barbarian" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725357" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="9aab4bcd-e1f7-4008-7b8f-20f189379bae" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="6d85ab2d-5c23-498c-1ea6-f098005a7a17" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="1eec74e8-3673-4500-ecab-b75784eded69" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-3fbf-19a29ae6337f" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="91f4b379-63a2-40e9-09a5-9b7b902fc8e4" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<save>
+  <version major="4" minor="0" revision="0" build="58"/>
+  <region id="Tags">
+    <node id="root">
+      <attribute id="Description" type="LSString" value=""/>
+      <attribute id="DisplayDescription" type="TranslatedString" handle="A Warrior sidekick grows in martial prowess as it fights by your side." version="1"/>
+      <attribute id="DisplayName" type="TranslatedString" handle="WARRIOR" version="2"/>
+      <attribute id="Icon" type="FixedString" value=""/>
+      <attribute id="Name" type="FixedString" value="WARRIOR"/>
+      <attribute id="UUID" type="guid" value="c5df639b-8fab-4bf8-9890-45b7cb174869"/>
+      <children>
+        <node id="Categories">
+          <children>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Code"/>
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Dialog"/>
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Class"/>
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="CharacterSheet"/>
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

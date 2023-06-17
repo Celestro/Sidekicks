@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="613"/>
+    <region id="Rulebook">
+        <node id="root">
+            <children>
+                <node id="Rule">
+                    <attribute id="ApplyVisual" type="bool" value="true"/>
+                    <attribute id="ChangeBodyType" type="bool" value="true"/>
+                    <attribute id="ChangeIcon" type="bool" value="true"/>
+                    <attribute id="ChangeRace" type="bool" value="true"/>
+                    <attribute id="IgnoreCustomLooks" type="bool" value="true"/>
+                    <attribute id="RetainDisplayName" type="bool" value="false"/>
+                    <attribute id="RemovePrevSpells" type="bool" value="true"/>
+                    <attribute id="RuleName" type="LSString" value="KarlachAppearanceChange "/>
+                    <attribute id="UUID" type="guid" value="61aeb677-ed4b-42df-b42d-22b5ac1f59a3"/>
+                    <attribute id="UseShapeshiftIdentity" type="bool" value="false"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

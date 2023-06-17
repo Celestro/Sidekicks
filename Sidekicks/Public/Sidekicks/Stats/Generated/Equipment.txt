@@ -1,0 +1,35 @@
+new equipment "EQP_Karlach"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_LightCrossbow"
+add equipmentgroup
+add equipment entry "ARM_Shoes_Barbarian"
+add equipmentgroup
+add equipment entry "WPN_Greataxe"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+
+new equipment "EQP_Daisy"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "UNI_DaisyDress"
+add equipmentgroup
+add equipment entry "WPN_Shortbow"
+add equipmentgroup
+add equipment entry "WPN_Dagger"
+add equipmentgroup
+add equipment entry "OBJ_Kit_ThievesTools"
+add equipmentgroup
+add equipment entry "OBJ_GreaseBottle"
+add equipmentgroup
+add equipment entry "OBJ_GreaseBottle"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"

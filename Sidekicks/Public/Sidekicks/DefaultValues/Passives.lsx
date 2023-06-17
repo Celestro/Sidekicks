@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="611"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="BonusProficiencies_Dexterity"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="f10dc188-0181-4731-814c-b01817a26164"/>
+                    <attribute id="UUID" type="guid" value="e17ae12f-514a-4ed3-9259-c2d63115f120"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="MartialRole_Attacker"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="f10dc188-0181-4731-814c-b01817a26164"/>
+                    <attribute id="UUID" type="guid" value="95738a66-e6fa-4350-8d0e-0cf4f7b1e327"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
